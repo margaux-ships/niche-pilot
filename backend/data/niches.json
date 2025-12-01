@@ -1,0 +1,885 @@
+{
+  "b2b ai": {
+    "accounts": [
+      {
+        "handle": "@paulg",
+        "bio": "Partner at Y Combinator. Building the future of startups."
+      },
+      {
+        "handle": "@elonmusk",
+        "bio": "Tesla, SpaceX, Neuralink, Boring Company"
+      },
+      {
+        "handle": "@sama",
+        "bio": "CEO of OpenAI. Building safe AGI."
+      },
+      {
+        "handle": "@benedictevans",
+        "bio": "Partner at a16z. Writing about tech and strategy."
+      },
+      {
+        "handle": "@rabois",
+        "bio": "Partner at Founders Fund. Former COO of Square."
+      },
+      {
+        "handle": "@jasonlk",
+        "bio": "Founder of Jason Calacanis LLC. Angel investor."
+      },
+      {
+        "handle": "@garrytan",
+        "bio": "CEO of Postman. Former YC partner."
+      },
+      {
+        "handle": "@dhh",
+        "bio": "Creator of Ruby on Rails. CTO of 37signals."
+      },
+      {
+        "handle": "@patrickc",
+        "bio": "Founder of Stripe. Building economic infrastructure."
+      },
+      {
+        "handle": "@pmarca",
+        "bio": "Co-founder of Andreessen Horowitz. Tech investor."
+      },
+      {
+        "handle": "@rauchg",
+        "bio": "CEO of Vercel. Building the next web."
+      },
+      {
+        "handle": "@levelsio",
+        "bio": "Indie maker. Building products in public."
+      },
+      {
+        "handle": "@briannekimmel",
+        "bio": "Founder of Worklife VC. Investing in the future of work."
+      },
+      {
+        "handle": "@jspector",
+        "bio": "Founder of Tiny. Building small businesses."
+      },
+      {
+        "handle": "@shl",
+        "bio": "Founder of Gumroad. Building the creator economy."
+      },
+      {
+        "handle": "@jackbutcher",
+        "bio": "Founder of Visualize Value. Teaching visual thinking."
+      },
+      {
+        "handle": "@david_perell",
+        "bio": "Writer and educator. Teaching online writing."
+      },
+      {
+        "handle": "@balajis",
+        "bio": "Author of The Network State. Building decentralized networks."
+      },
+      {
+        "handle": "@naval",
+        "bio": "Author of The Almanack of Naval Ravikant. Philosopher."
+      },
+      {
+        "handle": "@paulg",
+        "bio": "Partner at Y Combinator. Building the future of startups."
+      }
+    ],
+    "tweets": [
+      {
+        "url": "https://x.com/sama/status/1234567890",
+        "text": "The future of AI is not about replacing humans, but augmenting them. We're building tools that make everyone more capable."
+      },
+      {
+        "url": "https://x.com/benedictevans/status/1234567891",
+        "text": "Every company will become an AI company, just like every company became an internet company. The question is how fast."
+      },
+      {
+        "url": "https://x.com/rauchg/status/1234567892",
+        "text": "The best AI products are invisible. They just work, and you don't think about them."
+      },
+      {
+        "url": "https://x.com/levelsio/status/1234567893",
+        "text": "Building in public is the new marketing. Show your work, share your process, and people will follow."
+      },
+      {
+        "url": "https://x.com/patrickc/status/1234567894",
+        "text": "The internet is still in its early days. We're just scratching the surface of what's possible."
+      },
+      {
+        "url": "https://x.com/dhh/status/1234567895",
+        "text": "Complexity is the enemy of progress. Simple solutions often work better than complex ones."
+      },
+      {
+        "url": "https://x.com/jasonlk/status/1234567896",
+        "text": "The best startups solve real problems for real people. Everything else is just noise."
+      },
+      {
+        "url": "https://x.com/garrytan/status/1234567897",
+        "text": "Distribution is the hardest part of building a startup. Great products don't sell themselves."
+      },
+      {
+        "url": "https://x.com/pmarca/status/1234567898",
+        "text": "Software is eating the world, and AI is eating software. The transformation is just beginning."
+      },
+      {
+        "url": "https://x.com/briannekimmel/status/1234567899",
+        "text": "The future of work is remote, async, and distributed. Companies that adapt will win."
+      }
+    ]
+  },
+  "indie saas": {
+    "accounts": [
+      {
+        "handle": "@levelsio",
+        "bio": "Indie maker. Building products in public."
+      },
+      {
+        "handle": "@shl",
+        "bio": "Founder of Gumroad. Building the creator economy."
+      },
+      {
+        "handle": "@jspector",
+        "bio": "Founder of Tiny. Building small businesses."
+      },
+      {
+        "handle": "@jackbutcher",
+        "bio": "Founder of Visualize Value. Teaching visual thinking."
+      },
+      {
+        "handle": "@david_perell",
+        "bio": "Writer and educator. Teaching online writing."
+      },
+      {
+        "handle": "@pieterlevels",
+        "bio": "Indie hacker. Building profitable side projects."
+      },
+      {
+        "handle": "@csallen",
+        "bio": "Founder of Indie Hackers. Building in public."
+      },
+      {
+        "handle": "@courtland",
+        "bio": "Founder of Indie Hackers. Teaching entrepreneurship."
+      },
+      {
+        "handle": "@taylorpearson",
+        "bio": "Author of The End of Jobs. Building online businesses."
+      },
+      {
+        "handle": "@dannypostma",
+        "bio": "Indie maker. Building profitable SaaS products."
+      },
+      {
+        "handle": "@joshpitzalis",
+        "bio": "Indie maker. Building products that matter."
+      },
+      {
+        "handle": "@mijustin",
+        "bio": "Founder of Transistor.fm. Building podcasting tools."
+      },
+      {
+        "handle": "@jonbuda",
+        "bio": "Indie maker. Building profitable side projects."
+      },
+      {
+        "handle": "@robwalling",
+        "bio": "Founder of TinySeed. Investing in bootstrapped startups."
+      },
+      {
+        "handle": "@amyhoy",
+        "bio": "Founder of Freckle Time Tracking. Building profitable SaaS."
+      },
+      {
+        "handle": "@patio11",
+        "bio": "Indie maker. Building profitable software businesses."
+      },
+      {
+        "handle": "@brennan",
+        "bio": "Founder of ConvertKit. Building email tools for creators."
+      },
+      {
+        "handle": "@garrettdimon",
+        "bio": "Founder of Sifter. Building simple issue tracking."
+      },
+      {
+        "handle": "@jasonfried",
+        "bio": "Co-founder of 37signals. Building Basecamp and HEY."
+      },
+      {
+        "handle": "@dhh",
+        "bio": "Creator of Ruby on Rails. CTO of 37signals."
+      }
+    ],
+    "tweets": [
+      {
+        "url": "https://x.com/levelsio/status/2234567890",
+        "text": "The best SaaS products solve one problem really well. Don't try to be everything to everyone."
+      },
+      {
+        "url": "https://x.com/shl/status/2234567891",
+        "text": "Pricing is hard, but it's the most important decision you'll make. Charge more than you think."
+      },
+      {
+        "url": "https://x.com/jspector/status/2234567892",
+        "text": "Customer support is your competitive advantage. Respond fast, be helpful, and people will remember."
+      },
+      {
+        "url": "https://x.com/csallen/status/2234567893",
+        "text": "Building in public is the best marketing strategy for indie makers. Share your journey."
+      },
+      {
+        "url": "https://x.com/courtland/status/2234567894",
+        "text": "The best time to start a SaaS business was 10 years ago. The second best time is now."
+      },
+      {
+        "url": "https://x.com/taylorpearson/status/2234567895",
+        "text": "Revenue solves all problems. Focus on getting to $1k MRR, then $10k, then $100k."
+      },
+      {
+        "url": "https://x.com/dannypostma/status/2234567896",
+        "text": "Don't build features, solve problems. Your customers will tell you what to build next."
+      },
+      {
+        "url": "https://x.com/joshpitzalis/status/2234567897",
+        "text": "The best SaaS products are boring. They solve real problems for real businesses."
+      },
+      {
+        "url": "https://x.com/mijustin/status/2234567898",
+        "text": "Indie makers don't need VC funding. They need customers who pay for their product."
+      },
+      {
+        "url": "https://x.com/robwalling/status/2234567899",
+        "text": "Bootstrapped startups have more freedom. You answer to customers, not investors."
+      }
+    ]
+  },
+  "product": {
+    "accounts": [
+      {
+        "handle": "@juliezhuo",
+        "bio": "Former VP of Product Design at Facebook. Author of The Making of a Manager."
+      },
+      {
+        "handle": "@shreyas",
+        "bio": "Product leader. Writing about product strategy and execution."
+      },
+      {
+        "handle": "@gibsonbiddle",
+        "bio": "Former VP of Product at Netflix. Teaching product management."
+      },
+      {
+        "handle": "@lennysan",
+        "bio": "Product leader. Writing about product strategy and growth."
+      },
+      {
+        "handle": "@cagan",
+        "bio": "VP of Product at Silicon Valley Product Group. Product coach."
+      },
+      {
+        "handle": "@kennychen",
+        "bio": "Product leader. Building great products."
+      },
+      {
+        "handle": "@johncutlefish",
+        "bio": "Product coach. Teaching product management."
+      },
+      {
+        "handle": "@marty_cagan",
+        "bio": "Author of Inspired. Teaching product management."
+      },
+      {
+        "handle": "@rrhoover",
+        "bio": "Founder of Product Hunt. Building product discovery."
+      },
+      {
+        "handle": "@dannysteen",
+        "bio": "Product leader. Writing about product strategy."
+      },
+      {
+        "handle": "@jasonfried",
+        "bio": "Co-founder of 37signals. Building Basecamp and HEY."
+      },
+      {
+        "handle": "@rauchg",
+        "bio": "CEO of Vercel. Building the next web."
+      },
+      {
+        "handle": "@briannekimmel",
+        "bio": "Founder of Worklife VC. Investing in the future of work."
+      },
+      {
+        "handle": "@jackbutcher",
+        "bio": "Founder of Visualize Value. Teaching visual thinking."
+      },
+      {
+        "handle": "@david_perell",
+        "bio": "Writer and educator. Teaching online writing."
+      },
+      {
+        "handle": "@paulg",
+        "bio": "Partner at Y Combinator. Building the future of startups."
+      },
+      {
+        "handle": "@patrickc",
+        "bio": "Founder of Stripe. Building economic infrastructure."
+      },
+      {
+        "handle": "@dhh",
+        "bio": "Creator of Ruby on Rails. CTO of 37signals."
+      },
+      {
+        "handle": "@levelsio",
+        "bio": "Indie maker. Building products in public."
+      },
+      {
+        "handle": "@sama",
+        "bio": "CEO of OpenAI. Building safe AGI."
+      }
+    ],
+    "tweets": [
+      {
+        "url": "https://x.com/juliezhuo/status/3234567890",
+        "text": "Great products are built by great teams. Invest in your people, and they'll build amazing things."
+      },
+      {
+        "url": "https://x.com/shreyas/status/3234567891",
+        "text": "Product strategy is about saying no to good ideas so you can say yes to great ones."
+      },
+      {
+        "url": "https://x.com/gibsonbiddle/status/3234567892",
+        "text": "The best products solve real problems for real people. Everything else is just features."
+      },
+      {
+        "url": "https://x.com/lennysan/status/3234567893",
+        "text": "Product-market fit is not a destination, it's a journey. Keep iterating until you find it."
+      },
+      {
+        "url": "https://x.com/cagan/status/3234567894",
+        "text": "The best product managers are customer-obsessed. They understand their users better than anyone."
+      },
+      {
+        "url": "https://x.com/kennychen/status/3234567895",
+        "text": "Building great products requires patience. Don't rush to launch, take time to get it right."
+      },
+      {
+        "url": "https://x.com/johncutlefish/status/3234567896",
+        "text": "Product management is about making hard decisions with incomplete information. Get comfortable with uncertainty."
+      },
+      {
+        "url": "https://x.com/marty_cagan/status/3234567897",
+        "text": "The best products are built by empowered teams. Give your team the autonomy to make decisions."
+      },
+      {
+        "url": "https://x.com/rrhoover/status/3234567898",
+        "text": "Product discovery is just as important as product delivery. Spend time understanding your users."
+      },
+      {
+        "url": "https://x.com/dannysteen/status/3234567899",
+        "text": "The best products are simple. Complexity is the enemy of great user experiences."
+      }
+    ]
+  },
+  "design": {
+    "accounts": [
+      {
+        "handle": "@juliezhuo",
+        "bio": "Former VP of Product Design at Facebook. Author of The Making of a Manager."
+      },
+      {
+        "handle": "@jackbutcher",
+        "bio": "Founder of Visualize Value. Teaching visual thinking."
+      },
+      {
+        "handle": "@briannekimmel",
+        "bio": "Founder of Worklife VC. Investing in the future of work."
+      },
+      {
+        "handle": "@rauchg",
+        "bio": "CEO of Vercel. Building the next web."
+      },
+      {
+        "handle": "@levelsio",
+        "bio": "Indie maker. Building products in public."
+      },
+      {
+        "handle": "@dannysteen",
+        "bio": "Product leader. Writing about product strategy."
+      },
+      {
+        "handle": "@jasonfried",
+        "bio": "Co-founder of 37signals. Building Basecamp and HEY."
+      },
+      {
+        "handle": "@dhh",
+        "bio": "Creator of Ruby on Rails. CTO of 37signals."
+      },
+      {
+        "handle": "@patrickc",
+        "bio": "Founder of Stripe. Building economic infrastructure."
+      },
+      {
+        "handle": "@paulg",
+        "bio": "Partner at Y Combinator. Building the future of startups."
+      },
+      {
+        "handle": "@sama",
+        "bio": "CEO of OpenAI. Building safe AGI."
+      },
+      {
+        "handle": "@benedictevans",
+        "bio": "Partner at a16z. Writing about tech and strategy."
+      },
+      {
+        "handle": "@rabois",
+        "bio": "Partner at Founders Fund. Former COO of Square."
+      },
+      {
+        "handle": "@jasonlk",
+        "bio": "Founder of Jason Calacanis LLC. Angel investor."
+      },
+      {
+        "handle": "@garrytan",
+        "bio": "CEO of Postman. Former YC partner."
+      },
+      {
+        "handle": "@rrhoover",
+        "bio": "Founder of Product Hunt. Building product discovery."
+      },
+      {
+        "handle": "@shl",
+        "bio": "Founder of Gumroad. Building the creator economy."
+      },
+      {
+        "handle": "@jspector",
+        "bio": "Founder of Tiny. Building small businesses."
+      },
+      {
+        "handle": "@david_perell",
+        "bio": "Writer and educator. Teaching online writing."
+      },
+      {
+        "handle": "@balajis",
+        "bio": "Author of The Network State. Building decentralized networks."
+      }
+    ],
+    "tweets": [
+      {
+        "url": "https://x.com/juliezhuo/status/4234567890",
+        "text": "Great design is invisible. When it's done well, you don't notice it, you just use it."
+      },
+      {
+        "url": "https://x.com/jackbutcher/status/4234567891",
+        "text": "Visual design is about communication. Every element should have a purpose."
+      },
+      {
+        "url": "https://x.com/briannekimmel/status/4234567892",
+        "text": "The best designs are simple. Complexity is the enemy of great user experiences."
+      },
+      {
+        "url": "https://x.com/rauchg/status/4234567893",
+        "text": "Design systems are about consistency. They help teams build better products faster."
+      },
+      {
+        "url": "https://x.com/levelsio/status/4234567894",
+        "text": "Good design is about solving problems, not making things look pretty."
+      },
+      {
+        "url": "https://x.com/dannysteen/status/4234567895",
+        "text": "The best designers are user-obsessed. They understand their users better than anyone."
+      },
+      {
+        "url": "https://x.com/jasonfried/status/4234567896",
+        "text": "Design is about making things work better. Focus on function, not form."
+      },
+      {
+        "url": "https://x.com/dhh/status/4234567897",
+        "text": "The best designs are opinionated. They make decisions for users, not with them."
+      },
+      {
+        "url": "https://x.com/patrickc/status/4234567898",
+        "text": "Great design is about empathy. Understand your users, and you'll build better products."
+      },
+      {
+        "url": "https://x.com/paulg/status/4234567899",
+        "text": "The best products are beautifully designed. They're a joy to use, not just functional."
+      }
+    ]
+  },
+  "startup founders": {
+    "accounts": [
+      {
+        "handle": "@paulg",
+        "bio": "Partner at Y Combinator. Building the future of startups."
+      },
+      {
+        "handle": "@elonmusk",
+        "bio": "Tesla, SpaceX, Neuralink, Boring Company"
+      },
+      {
+        "handle": "@sama",
+        "bio": "CEO of OpenAI. Building safe AGI."
+      },
+      {
+        "handle": "@patrickc",
+        "bio": "Founder of Stripe. Building economic infrastructure."
+      },
+      {
+        "handle": "@dhh",
+        "bio": "Creator of Ruby on Rails. CTO of 37signals."
+      },
+      {
+        "handle": "@jasonfried",
+        "bio": "Co-founder of 37signals. Building Basecamp and HEY."
+      },
+      {
+        "handle": "@rauchg",
+        "bio": "CEO of Vercel. Building the next web."
+      },
+      {
+        "handle": "@levelsio",
+        "bio": "Indie maker. Building products in public."
+      },
+      {
+        "handle": "@briannekimmel",
+        "bio": "Founder of Worklife VC. Investing in the future of work."
+      },
+      {
+        "handle": "@jspector",
+        "bio": "Founder of Tiny. Building small businesses."
+      },
+      {
+        "handle": "@shl",
+        "bio": "Founder of Gumroad. Building the creator economy."
+      },
+      {
+        "handle": "@jackbutcher",
+        "bio": "Founder of Visualize Value. Teaching visual thinking."
+      },
+      {
+        "handle": "@david_perell",
+        "bio": "Writer and educator. Teaching online writing."
+      },
+      {
+        "handle": "@balajis",
+        "bio": "Author of The Network State. Building decentralized networks."
+      },
+      {
+        "handle": "@naval",
+        "bio": "Author of The Almanack of Naval Ravikant. Philosopher."
+      },
+      {
+        "handle": "@jasonlk",
+        "bio": "Founder of Jason Calacanis LLC. Angel investor."
+      },
+      {
+        "handle": "@garrytan",
+        "bio": "CEO of Postman. Former YC partner."
+      },
+      {
+        "handle": "@rabois",
+        "bio": "Partner at Founders Fund. Former COO of Square."
+      },
+      {
+        "handle": "@pmarca",
+        "bio": "Co-founder of Andreessen Horowitz. Tech investor."
+      },
+      {
+        "handle": "@benedictevans",
+        "bio": "Partner at a16z. Writing about tech and strategy."
+      }
+    ],
+    "tweets": [
+      {
+        "url": "https://x.com/paulg/status/5234567890",
+        "text": "The best startups solve real problems for real people. Everything else is just noise."
+      },
+      {
+        "url": "https://x.com/elonmusk/status/5234567891",
+        "text": "Starting a company is hard. But if you're solving a real problem, it's worth it."
+      },
+      {
+        "url": "https://x.com/sama/status/5234567892",
+        "text": "The best founders are customer-obsessed. They understand their users better than anyone."
+      },
+      {
+        "url": "https://x.com/patrickc/status/5234567893",
+        "text": "Building a startup is about making hard decisions with incomplete information. Get comfortable with uncertainty."
+      },
+      {
+        "url": "https://x.com/dhh/status/5234567894",
+        "text": "The best startups are built by small teams. Focus on hiring great people, not many people."
+      },
+      {
+        "url": "https://x.com/jasonfried/status/5234567895",
+        "text": "Starting a company is about solving problems, not raising money. Focus on customers, not investors."
+      },
+      {
+        "url": "https://x.com/rauchg/status/5234567896",
+        "text": "The best founders are product-obsessed. They care about every detail of their product."
+      },
+      {
+        "url": "https://x.com/levelsio/status/5234567897",
+        "text": "Building in public is the best marketing strategy for startups. Share your journey."
+      },
+      {
+        "url": "https://x.com/briannekimmel/status/5234567898",
+        "text": "The best startups are built by founders who are passionate about their problem. Find your why."
+      },
+      {
+        "url": "https://x.com/jspector/status/5234567899",
+        "text": "Starting a company is about taking risks. But calculated risks, not blind ones."
+      }
+    ]
+  },
+  "growth": {
+    "accounts": [
+      {
+        "handle": "@lennysan",
+        "bio": "Product leader. Writing about product strategy and growth."
+      },
+      {
+        "handle": "@briannekimmel",
+        "bio": "Founder of Worklife VC. Investing in the future of work."
+      },
+      {
+        "handle": "@levelsio",
+        "bio": "Indie maker. Building products in public."
+      },
+      {
+        "handle": "@shl",
+        "bio": "Founder of Gumroad. Building the creator economy."
+      },
+      {
+        "handle": "@jspector",
+        "bio": "Founder of Tiny. Building small businesses."
+      },
+      {
+        "handle": "@jackbutcher",
+        "bio": "Founder of Visualize Value. Teaching visual thinking."
+      },
+      {
+        "handle": "@david_perell",
+        "bio": "Writer and educator. Teaching online writing."
+      },
+      {
+        "handle": "@paulg",
+        "bio": "Partner at Y Combinator. Building the future of startups."
+      },
+      {
+        "handle": "@patrickc",
+        "bio": "Founder of Stripe. Building economic infrastructure."
+      },
+      {
+        "handle": "@dhh",
+        "bio": "Creator of Ruby on Rails. CTO of 37signals."
+      },
+      {
+        "handle": "@jasonfried",
+        "bio": "Co-founder of 37signals. Building Basecamp and HEY."
+      },
+      {
+        "handle": "@rauchg",
+        "bio": "CEO of Vercel. Building the next web."
+      },
+      {
+        "handle": "@sama",
+        "bio": "CEO of OpenAI. Building safe AGI."
+      },
+      {
+        "handle": "@benedictevans",
+        "bio": "Partner at a16z. Writing about tech and strategy."
+      },
+      {
+        "handle": "@rabois",
+        "bio": "Partner at Founders Fund. Former COO of Square."
+      },
+      {
+        "handle": "@jasonlk",
+        "bio": "Founder of Jason Calacanis LLC. Angel investor."
+      },
+      {
+        "handle": "@garrytan",
+        "bio": "CEO of Postman. Former YC partner."
+      },
+      {
+        "handle": "@rrhoover",
+        "bio": "Founder of Product Hunt. Building product discovery."
+      },
+      {
+        "handle": "@balajis",
+        "bio": "Author of The Network State. Building decentralized networks."
+      },
+      {
+        "handle": "@naval",
+        "bio": "Author of The Almanack of Naval Ravikant. Philosopher."
+      }
+    ],
+    "tweets": [
+      {
+        "url": "https://x.com/lennysan/status/6234567890",
+        "text": "Growth is about finding what works and doubling down on it. Test everything, keep what works."
+      },
+      {
+        "url": "https://x.com/briannekimmel/status/6234567891",
+        "text": "The best growth strategies are built on understanding your users. Know your customers better than anyone."
+      },
+      {
+        "url": "https://x.com/levelsio/status/6234567892",
+        "text": "Growth is about consistency. Show up every day, and you'll see results over time."
+      },
+      {
+        "url": "https://x.com/shl/status/6234567893",
+        "text": "The best growth channels are the ones your competitors aren't using. Find your unique advantage."
+      },
+      {
+        "url": "https://x.com/jspector/status/6234567894",
+        "text": "Growth is about experimentation. Try new things, measure results, and iterate."
+      },
+      {
+        "url": "https://x.com/jackbutcher/status/6234567895",
+        "text": "The best growth strategies are built on great products. Focus on product first, growth second."
+      },
+      {
+        "url": "https://x.com/david_perell/status/6234567896",
+        "text": "Growth is about building relationships. Connect with your users, and they'll help you grow."
+      },
+      {
+        "url": "https://x.com/paulg/status/6234567897",
+        "text": "The best growth strategies are built on word-of-mouth. Build something people want to share."
+      },
+      {
+        "url": "https://x.com/patrickc/status/6234567898",
+        "text": "Growth is about patience. Don't expect overnight success, focus on long-term growth."
+      },
+      {
+        "url": "https://x.com/dhh/status/6234567899",
+        "text": "The best growth strategies are built on authenticity. Be yourself, and people will connect with you."
+      }
+    ]
+  },
+  "femtech": {
+    "accounts": [
+      {
+        "handle": "@idafriedberg",
+        "bio": "Founder of Femtech Insider. Building the future of women's health."
+      },
+      {
+        "handle": "@tania_boler",
+        "bio": "Founder of Elvie. Building products for women's health."
+      },
+      {
+        "handle": "@rachelgrossman",
+        "bio": "Founder of Kindbody. Building accessible fertility care."
+      },
+      {
+        "handle": "@michelle_davey",
+        "bio": "Founder of Wheel. Building telehealth infrastructure."
+      },
+      {
+        "handle": "@annewojcicki",
+        "bio": "Co-founder of 23andMe. Building personalized health."
+      },
+      {
+        "handle": "@briannekimmel",
+        "bio": "Founder of Worklife VC. Investing in the future of work."
+      },
+      {
+        "handle": "@juliezhuo",
+        "bio": "Former VP of Product Design at Facebook. Author of The Making of a Manager."
+      },
+      {
+        "handle": "@levelsio",
+        "bio": "Indie maker. Building products in public."
+      },
+      {
+        "handle": "@shl",
+        "bio": "Founder of Gumroad. Building the creator economy."
+      },
+      {
+        "handle": "@jspector",
+        "bio": "Founder of Tiny. Building small businesses."
+      },
+      {
+        "handle": "@jackbutcher",
+        "bio": "Founder of Visualize Value. Teaching visual thinking."
+      },
+      {
+        "handle": "@david_perell",
+        "bio": "Writer and educator. Teaching online writing."
+      },
+      {
+        "handle": "@paulg",
+        "bio": "Partner at Y Combinator. Building the future of startups."
+      },
+      {
+        "handle": "@patrickc",
+        "bio": "Founder of Stripe. Building economic infrastructure."
+      },
+      {
+        "handle": "@dhh",
+        "bio": "Creator of Ruby on Rails. CTO of 37signals."
+      },
+      {
+        "handle": "@jasonfried",
+        "bio": "Co-founder of 37signals. Building Basecamp and HEY."
+      },
+      {
+        "handle": "@rauchg",
+        "bio": "CEO of Vercel. Building the next web."
+      },
+      {
+        "handle": "@sama",
+        "bio": "CEO of OpenAI. Building safe AGI."
+      },
+      {
+        "handle": "@benedictevans",
+        "bio": "Partner at a16z. Writing about tech and strategy."
+      },
+      {
+        "handle": "@rabois",
+        "bio": "Partner at Founders Fund. Former COO of Square."
+      }
+    ],
+    "tweets": [
+      {
+        "url": "https://x.com/idafriedberg/status/7234567890",
+        "text": "Femtech is about solving real problems for real women. We're building products that matter."
+      },
+      {
+        "url": "https://x.com/tania_boler/status/7234567891",
+        "text": "Women's health has been underserved for too long. We're changing that, one product at a time."
+      },
+      {
+        "url": "https://x.com/rachelgrossman/status/7234567892",
+        "text": "Accessible fertility care is a human right. We're making it available to everyone."
+      },
+      {
+        "url": "https://x.com/michelle_davey/status/7234567893",
+        "text": "Telehealth is the future of healthcare. We're building the infrastructure to make it happen."
+      },
+      {
+        "url": "https://x.com/annewojcicki/status/7234567894",
+        "text": "Personalized health is the future. We're using data to improve outcomes for everyone."
+      },
+      {
+        "url": "https://x.com/briannekimmel/status/7234567895",
+        "text": "The future of work includes better healthcare for women. We're investing in that future."
+      },
+      {
+        "url": "https://x.com/juliezhuo/status/7234567896",
+        "text": "Great products are built by diverse teams. We need more women in tech, especially in health."
+      },
+      {
+        "url": "https://x.com/levelsio/status/7234567897",
+        "text": "Building products for women's health is important work. We're making a difference."
+      },
+      {
+        "url": "https://x.com/shl/status/7234567898",
+        "text": "The creator economy includes health creators. We're building tools to support them."
+      },
+      {
+        "url": "https://x.com/jspector/status/7234567899",
+        "text": "Small businesses can make a big impact in healthcare. We're proving that every day."
+      }
+    ]
+  }
+}
+
